@@ -1,2 +1,3 @@
 .vscode/
 Classification/*.npy
+Classification/*.ipynb_checkpoints
